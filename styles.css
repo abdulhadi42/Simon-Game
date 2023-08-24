@@ -1,0 +1,46 @@
+body{
+    background-color: #011F3F;
+    text-align: center;
+    margin-top: 100px;
+
+}
+h1{
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3em;
+}
+
+.table{
+    margin: auto;
+    /* background-color: #fff;
+    width: 200px;
+    height: 200px; */
+}
+
+
+.red,.blue,.green,.yellow{
+    width: 200px;
+    height: 200px; 
+    margin: 40px;
+    border: 10px black solid;
+    border-radius:40px ;
+    display: inline-block;
+
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.row{
+    width: auto;
+}
